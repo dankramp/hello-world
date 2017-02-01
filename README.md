@@ -1,2 +1,5 @@
 # hello-world
-Test repo
+
+This is a test repo so I can understand how GitHub works. 
+
+If future employers see this, please ignore.
